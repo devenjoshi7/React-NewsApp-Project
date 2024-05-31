@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Champions League reaction as Barcelona beat PSG, and build-up to Liverpool and West Ham's Europa League games",
+            "description": "Reaction to Champions League wins for Barcelona and Atletico Madrid, and build-up to Thursday's Europa League and Conference games.",
+            "url": "http://www.bbc.co.uk/sport/football/live/crgylgdrvd8t",
+            "urlToImage": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/sport/images/metadata/poster-1024x576.png",
+            "publishedAt": "2024-04-11T06:37:20.433147Z",
+            "content": "Paris St-Germain 2-3 Barcelona\r\nCallum MatthewsBBC Sport\r\nFive-time winners Barcelona came from behind to earn a slender advantage over Paris St-Germain in the first leg of their Champions League qua… [+1126 chars]"
+        },
+        {
+            "source": {
+                "id": "four-four-two",
+                "name": "FourFourTwo"
+            },
+            "author": "Chris Flanagan",
+            "title": "Basian Schweinsteiger exclusive: \"Losing the Champions League to Chelsea hurt so much – it drove Bayern Munich to the treble\"",
+            "description": "The German great tells FourFourTwo about the pain of his missed spot kick in the 2012 final, then redemption in 2013",
+            "url": "https://www.fourfourtwo.com/news/bastian-schweinsteiger-bayern-chelsea",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/rCe7r5tmaCF9VNXxut8Qcj-1200-80.jpg",
+            "publishedAt": "2024-04-11T05:00:00Z",
+            "content": "Bayern Munich are aiming to win the Champions League at Wembley for a second time this year – their first triumph in 2013 was motivated by heartbreak, according to Bastian Schweinsteiger.\r\nThe legend… [+2802 chars]"
+        },
+        {
+            "source": {
+                "id": "four-four-two",
+                "name": "FourFourTwo"
+            },
+            "author": "Matthew Ketchell",
+            "title": "Sean Longstaff scored in the Champions League vs PSG at home, then watched the away fixture in a local pub next to his old school",
+            "description": "Injury ruled the midfielder out of a crunch European game for Newcastle in Paris, but he didn’t want to just sit his house and watch alone",
+            "url": "https://www.fourfourtwo.com/news/sean-longstaff-scored-in-the-champions-league-vs-psg-at-home-then-watched-the-away-fixture-in-a-local-pub-next-to-his-old-school",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/EJsmuEAimhzKZ45hPTzNBC-1200-80.jpg",
+            "publishedAt": "2024-04-10T17:15:05Z",
+            "content": "Sean Longstaff will find it difficult to top the moment he scored for Newcastle United in the Champions League. Adding to the magnitude of that moment was the fact it came at the iconic Gallowgate En… [+4106 chars]"
+        },
+        {
+            "source": {
+                "id": "football-italia",
+                "name": "Football Italia"
+            },
+            "author": "Football Italia Staff",
+            "title": "Donnarumma and Milan: a controversial love story",
+            "description": "The story began when Gigio Donnarumma followed his heart and signed with Milan and it could end with the club&#39;s return to the Champions League.",
+            "url": "http://www.football-italia.net/171170/donnarumma-and-milan-controversial-love-story",
+            "urlToImage": "https://www.football-italia.net/sites/default/files/imagecache/main_photo/[type]/[nid]/Donnarumma-1912-yay-epa_1_12.jpg",
+            "publishedAt": "2021-05-25T01:00:00Z",
+            "content": "The story began when Gigio Donnarumma followed his heart and signed with Milan and it could end with the club's return to the Champions League.\r\nThe Italy international helped Milan secure a place in… [+3001 chars]"
+        },
+        {
+            "source": {
+                "id": "talksport",
+                "name": "TalkSport"
+            },
+            "author": "Oliver Dawnay",
+            "title": "Mauricio Pochettino lavishes praise on ‘humble’ Neymar and says PSG superstar needs to ‘dance’ and enjoy fo...",
+            "description": "Mauricio Pochettino has labelled Neymar ‘humble’ and a ‘joy to coach’ as Paris Saint-Germain prepare for their blockbuster Champions League semi-final clash against Man City…",
+            "url": "https://talksport.com/football/872125/mauricio-pochettino-lavishes-psg-neymar-teammate-ronaldinho-man-city-2/",
+            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2021/04/GettyImages-1299317486.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+            "publishedAt": "2021-04-27T09:14:55Z",
+            "content": "Mauricio Pochettino has labelled Neymar 'humble' and a 'joy to coach' as Paris Saint-Germain prepare for their blockbuster Champions League semi-final clash against Man City on Wednesday. \r\nOver a ye… [+2860 chars]"
+        },
+        {
+            "source": {
+                "id": "the-sport-bible",
+                "name": "The Sport Bible"
+            },
+            "author": "Adnan Riaz",
+            "title": "Supercomputer Predicts The Champions League Winner For 2019-20 Season",
+            "description": "BT Sport's The Script predicted if Jurgen Klopp would lead Liverpool to their second consecutive Champions League trophy.",
+            "url": "http://www.thesportbible.com/football/news-supercomputer-predicts-the-champions-league-winner-for-2019-20-season-20190829",
+            "urlToImage": "http://beta.ems.ladbiblegroup.com/s3/content/808x455/4120a9305d6766c411d9733bd6edb2f8.png",
+            "publishedAt": "2019-08-29T06:51:10Z",
+            "content": "Liverpool will fall short of successfully defending their Champions League crown, according to a supercomputer simulation.\r\nThe Reds became champions of Europe for a sixth time in June when they beat… [+1862 chars]"
+        }
+    ]
+}
